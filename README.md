@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mawni&count_private=true&theme=react&show_icons=true&hide=issues,stars)](https://github.com/anuraghazra/github-readme-stats)
 
